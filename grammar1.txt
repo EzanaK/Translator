@@ -1,5 +1,0 @@
-Spanish: DET, NOU, DET
-English: DET, ADJ, NOU
-German: NOU, ADJ
-French: ADJ, NOU, DET
-invalid grammar line
