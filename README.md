@@ -1,2 +1,2 @@
-# Translator
-A simple translator for simple sentences.
+# Skills practiced
+- Regular expressions
